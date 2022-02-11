@@ -1,5 +1,5 @@
-### Hi there 👋
-- 🔭 Everything that you need to know: https://vusani-makhomu.netlify.app
+### Hi there 👋 I'm Vusani Makhomu.
+
 
 <!--
 **Vusani-Makhomu/Vusani-Makhomu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
