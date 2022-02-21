@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm Vusani Makhomu.
+![Profile v2](https://user-images.githubusercontent.com/79424556/154968789-c0cc6dab-a933-491c-bce2-9d84e5607a9d.jpg)
+
 For more information, check out my website.
 
 
