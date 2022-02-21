@@ -4,7 +4,7 @@
 
 ### - 🔭 I’m currently working on **a website which will help matric learners find out the courses that they qualify for at Varsity, using only their grade 11 marks.**
 ### - 🌱 I’m currently learning **JavaFX, Spring and Spring-Boot.**
-#### - 💬 Ask me about **Java, Data Structures, Algorithmns and Computer Networks.**
+#### - 💬 Ask me about **Java, Data Structures, Algorithms and Computer Networks.**
 ### - 📫 How to reach me: **makhomuvusani23@gmail.com**
 ### - ⚡ Fun fact: **I'm so tired of not being a billionaire.**
 
