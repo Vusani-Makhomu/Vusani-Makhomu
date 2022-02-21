@@ -8,7 +8,7 @@
 ### - 📫 How to reach me: **makhomuvusani23@gmail.com**
 ### - ⚡ Fun fact: **I'm so tired of not being a billionaire.**
 
-# > For more information, check out my [website](vusani.netlify.app).
+# > For more information, check out my [website](https://vusani.netlify.app).
 
 
 <!--
