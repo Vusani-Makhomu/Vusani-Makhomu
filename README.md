@@ -1,13 +1,6 @@
 ![Profile v2](https://user-images.githubusercontent.com/79424556/154968789-c0cc6dab-a933-491c-bce2-9d84e5607a9d.jpg)
 
 # Hi there 👋, I'm Vusani Makhomu.
-
-### - 🔭 I’m currently working on **a website which will help matric learners find out the courses that they qualify for at Varsity, using only their grade 11 marks.**
-### - 🌱 I’m currently learning **JavaFX, Spring and Spring-Boot.**
-#### - 💬 Ask me about **Java, Data Structures, Algorithms and Computer Networks.**
-### - 📫 How to reach me: **makhomuvusani23@gmail.com**
-### - ⚡ Fun fact: **I'm so tired of not being a billionaire.**
-
 # > For more information, check out my [website](https://vusani.netlify.app).
 
 
